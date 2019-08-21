@@ -6,7 +6,7 @@ Raytracer in Excel
 
 ReadMe
 
-NOTE: For this model to work, you  need to drag all formulae in the "Objects" tab from Column X onwards, from Row 24 to Row 14405. This takes a few moments to complete.
+NOTE: For this model to work, you  need to copy Row 24 in the "Objects" tab, and paste it on to Row 25 to Row 14405. This takes a few moments to complete.
 
 This excel file allows you to gain an intuitive understanding of how raytracing works in the basic setting of an excel workbook.
 The approach underpinning this model is largely based on that used in the book "The Ray Tracer Challenge" by Jamis Buck. It is an excelllent book that teaches the foundations of Raytracing in a fun and engaging way.
